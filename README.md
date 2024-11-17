@@ -1,4 +1,4 @@
-# Battlefield 2 Node
+# PlaySpy Battlefield 2
 
 This proyect is a Gamespy emulator and BF2 Statistics service to play battlefield 2 online
 
